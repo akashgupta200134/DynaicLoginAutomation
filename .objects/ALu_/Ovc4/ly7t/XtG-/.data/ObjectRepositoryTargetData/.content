@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="K4RtQQ_zpEmMsg0R7goA7Q" Reference="inM_BpRItkam0YALdGzLvA/XtG-yIuZy0aGzEfyZjDdvw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uitestingplayground.com/sampleapp" DesignTimeRectangle="136, 387, 350, 38" ElementType="InputBoxPassword" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='INPUT' type='password' /&gt;" Guid="b548de13-37e6-449c-bcda-8a46847100ef" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Sample App' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="e7fe91081dae2d15992fe63cface83d5.jpg" xmlns="">0zCAFvFVTAk-25LubTNX6LA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

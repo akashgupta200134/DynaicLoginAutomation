@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="4hRyFdqbgU6hWvFTZfcCwA" Reference="inM_BpRItkam0YALdGzLvA/sIc_HoNmE0eQVxJcu9WQJw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uitestingplayground.com/sampleapp" DesignTimeRectangle="121, 317, 380, 32" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl class='col-sm-4' tag='DIV' css-selector='body&amp;gt;section&amp;gt;div&amp;gt;div&amp;gt;div' innertext='Welcome, *' isleaf='0' parentclass='row' visibleinnertext='Welcome, *' /&gt;" Guid="07f96269-34fe-47cb-95f2-cc51a5ad8beb" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Sample App' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="b3abfac3735c4ec6df3bb58f455c8859.jpg" xmlns="">05BR9NI4qVkaRQ-RaUjf5Vw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

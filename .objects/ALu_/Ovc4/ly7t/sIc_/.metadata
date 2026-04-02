@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Welcome, Akash!",
+  "Type": "Element",
+  "Id": "sIc_HoNmE0eQVxJcu9WQJw",
+  "Reference": "inM_BpRItkam0YALdGzLvA/sIc_HoNmE0eQVxJcu9WQJw",
+  "ParentRef": "inM_BpRItkam0YALdGzLvA/ly7tjejBtEer8heW0rLDSA",
+  "Created": "2026-04-02T05:37:01.367156Z",
+  "Updated": "2026-04-02T05:37:01.367156Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.28.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

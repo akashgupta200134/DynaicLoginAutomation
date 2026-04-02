@@ -1,0 +1,6 @@
+{
+  "Name": "DynamicLoginAutomation",
+  "ProjectType": "Process",
+  "Description": "Automate login to a website    \r\nUse dynamic selectors for username/password    ",
+  "MainFile": "Main.xaml"
+}

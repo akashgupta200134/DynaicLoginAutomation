@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome Sample App",
+  "Type": "App",
+  "Id": "ALu_np4yzU2TJMMw_FY9kg",
+  "Reference": "inM_BpRItkam0YALdGzLvA/ALu_np4yzU2TJMMw_FY9kg",
+  "Created": "2026-04-02T05:19:12.343361Z",
+  "Updated": "2026-04-02T05:19:12.343361Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.28.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

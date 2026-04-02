@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="rd9HRr9A6Uqkjivxj-I35Q" Reference="inM_BpRItkam0YALdGzLvA/DcwDgQ8zqEe9io9Lt9Iv1g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uitestingplayground.com/sampleapp" DesignTimeRectangle="136, 449, 83, 38" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='login' tag='BUTTON' /&gt;" Guid="f57b6004-7357-4250-b49a-9e308e8b81c9" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Sample App' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="62a480c2068f26e455f9f4610cd5c763.jpg" xmlns="">0akqfAh-shUuW-NRRF34wgg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
